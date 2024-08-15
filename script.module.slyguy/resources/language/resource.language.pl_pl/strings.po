@@ -401,10 +401,6 @@ msgctxt "#32046"
 msgid "WebOS does not currently support Widevine playback on Kodi"
 msgstr "WebOS nie obsługuje obecnie odtwarzania Widevine na Kodi"
 
-msgctxt "#32047"
-msgid "Disable built-in DNS overrides"
-msgstr "Wyłącz wbudowane zastąpienia DNS"
-
 msgctxt "#32048"
 msgid "Bypass"
 msgstr "Pomiń"
